@@ -115,7 +115,6 @@ exports.help = (prefix,pushname) => {
 ☠︎︎ *${prefix}antilinkwha* _(on/off)_
 ☠︎︎ *${prefix}leveling* _(on/off)_
 ☠︎︎ *${prefix}delete* _(Mensaje bot)_
-☠︎︎ *${prefix}salir* _(dejo el grupo)_
 └──────────────
 
   ≡  Estos comandos menciona a todos los usuarios de un grupo
